@@ -1,1 +1,16 @@
-Movie app with using Swift and URLSession Database.
+# FilmlerUygulamasi
+A basic movie listing application developed with Swift.
+
+## Features
+- Movie list
+- Movie details
+
+## Technologies
+- Swift
+- UIKit
+- URLSession
+
+
+
+
+
